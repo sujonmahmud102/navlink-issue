@@ -1,0 +1,10 @@
+.active {
+    color: red;
+    background-color: aqua;
+}
+
+.nav-link {
+    color: #fe078f;
+    border-bottom: 3px solid #ed254d;
+    border-radius: 2px;
+}
